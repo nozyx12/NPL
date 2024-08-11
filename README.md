@@ -22,9 +22,7 @@ To apply the NPL to your project, replace the following placeholders in the lice
 
 You can find the different versions of the Nozyx Public License in their respective directories:
 
-- **v1.0/** - [License Text for v1.0](v1.0/LICENSE.txt)
-- **v1.1/** - [License Text for v1.1](v1.1/LICENSE.txt)
-- **v2.0/** - [License Text for v2.0](v2.0/LICENSE.txt)
+- **v1/** - [License Text for v1](v1/LICENSE)
 
 ## Reporting Issues
 
